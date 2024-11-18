@@ -1,1 +1,1 @@
-# Computer Science/ MAchine Learning projects
+# Computer Science/ Machine Learning projects
